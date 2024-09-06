@@ -52,3 +52,42 @@ nav .btn {
 	width: 14ch;
 	/* max-width: 500px; */
 }
+
+.service-product {
+	padding: 53px 66px;
+}
+
+.service-product h2 {
+	font-size: 24px;
+	font-weight: normal;
+	text-decoration: underline;
+	/* display: inline-block;
+	border-bottom: 1px solid black;
+	padding-bottom: 2px; */
+}
+
+.service-product ul {
+	padding: 0;
+	list-style-position: inside;
+}
+
+.service-product .service {
+	margin-bottom: 29px;
+}
+
+.service-product li {
+	margin-bottom: 10px;
+}
+
+.breakdown {
+	padding: 53px 66px;
+	background-color: #272343;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+}
+
+.breakdown article {
+	width: 348px;
+	/* width: 30ch; */
+}
