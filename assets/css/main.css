@@ -91,3 +91,44 @@ nav .btn {
 	width: 348px;
 	/* width: 30ch; */
 }
+
+.package {
+	padding: 96px 66px;
+}
+
+.package h2 {
+	font-size: 48px;
+	text-align: center;
+	font-weight: normal;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+
+.package table {
+	width: 90%;
+	/* background-color: #000; */
+	margin-inline: auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.package table .center {
+	text-align: center;
+}
+
+.package th,
+.package td {
+	padding-block: 10px;
+}
+
+.package thead {
+	background-color: #e5e5e5ba;
+}
+
+.package tbody {
+	background-color: #e5e5e540;
+}
+
+.package tbody tr {
+	border-top: 2px solid #e5e5e585;
+}
